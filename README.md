@@ -1,4 +1,4 @@
-"# urway" 
+gti "# urway" 
 "# payment_urway_odoo17" 
 …or create a new repository on the command line
 echo "# payment_urway_odoo17" >> README.md
