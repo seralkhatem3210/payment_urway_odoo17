@@ -60,7 +60,6 @@ class PaymentProviderUrway(models.Model):
             #     'name':'urway',
             #     # 'provider_ids':self.id,
             #     'provider_ids': [(4, self.id)],  # Link to this provider
-
             # })
         self.ensure_one()
 
